@@ -1,0 +1,3 @@
+[submodule "DJANG-CRUD-AUTH"]
+	path = DJANG-CRUD-AUTH
+	url = https://github.com/user/DJANG-CRUD-AUTH
